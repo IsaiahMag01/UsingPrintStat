@@ -11,6 +11,10 @@ public class UsingPrintStat {
      * @param args 
      */
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Lets play hide and go seek!");
+        System.out.print("Three...");
+        System.out.print("Two...");
+        System.out.println("One...");
+        System.out.println("Ready or not, here I come!");
     }
 }
